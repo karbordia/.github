@@ -1,4 +1,4 @@
-## Karboardia
+## karbordia
 
 This **organization** has a single goal: to create programs and applications that are genuinely useful and address real societal needs—not trivial apps like "Hello World."
 
